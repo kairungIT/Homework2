@@ -3,7 +3,7 @@ pandas
 matplotlib
 sklearn
 seaborn
-streamlit>22.0.0
+streamlit
 opencv-python-headless
 plotly==5.9.0
 openpyxl
